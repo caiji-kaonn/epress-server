@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "老四",
+    "gender": "男",
+    "img": "../assets/image/4.jpg"
+}, {
+    "id": 2,
+    "name": "老三",
+    "gender": "男",
+    "img": "../assets/image/3.jpg"
+}, {
+    "id": 3,
+    "name": "老二",
+    "gender": "男",
+    "img": "../assets/image/2.jpg"
+}, {
+    "id": 4,
+    "name": "老一",
+    "gender": "男",
+    "img": "../assets/image/1.jpg"
+}]
